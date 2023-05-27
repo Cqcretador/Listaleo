@@ -409,6 +409,8 @@ https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8?PlaylistM3UCL
 https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1003" tvg-name="Discovery Kids" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Discovery_kids_logo.png", Discovery Kids | AR
 http://181.78.24.187:8006/play/a084/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1003" tvg-name="Discovery Kids" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Discovery_kids_logo.png", Discovery Kids | AR
+http://190.60.39.62:8000/play/a013
 #EXTINF:-1 tvg-id="184" tvg-name="Television Celestial" tvg-logo="https://lh3.googleusercontent.com/-WQZBXFnmdbY/YE1OtXwbsrI/AAAAAAABAnU/ZtSJZdIgInwIVcCMRt8vyInZyMp9sleewCK8BGAsYHg/s512/2021-03-13.png", Television Celestial | AR
 https://vsrv1.az-streamingserver.com:3356/live/televisioncelestiallive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1058" tvg-name="Spectrum Channel" tvg-logo="https://i.paste.pics/ac458f828b6eb862c9842d8a114db060.png", Spectrum Channel | CL
