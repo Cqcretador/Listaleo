@@ -401,8 +401,8 @@ https://5975e06a1f292.streamlock.net:4443/znoticias/znoticias/playlist.m3u8?Play
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", Retro Plus TV Señal 3 | CL
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1078" tvg-name="Canal 6 - Viento Recio Internacional" tvg-logo="https://i2.paste.pics/62ae685f1d5790b8bf030f4350c70574.png", Canal 6 - Viento Recio Internacional | AR
-https://stmvideo2.livecastv.com/vientorecio/vientorecio/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1078" tvg-name="TyC Sports" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102018/untitled-1_0.png?F6I3fSfXjacEnK1eqDG27n_ZDOB47hGe&itok=O6OvPoFN", TyC Sports | AR
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/196
 #EXTINF:-1 tvg-id="207" tvg-name="DISNEY JR" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Disney-Junior-Logo.png", Disney jr | AR
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/15
 #EXTINF:-1 tvg-id="1003" tvg-name="TNT SPORT" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png", TNT SPORT | AR
