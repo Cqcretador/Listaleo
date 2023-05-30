@@ -403,8 +403,8 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1078" tvg-name="Canal 6 - Viento Recio Internacional" tvg-logo="https://i2.paste.pics/62ae685f1d5790b8bf030f4350c70574.png", Canal 6 - Viento Recio Internacional | AR
 https://stmvideo2.livecastv.com/vientorecio/vientorecio/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="207" tvg-name="Orbe 21" tvg-logo="https://lh3.googleusercontent.com/-nkPrJQvytG4/YFtHEDqc8EI/AAAAAAABA3Q/ug1dmoP1_Qcd5lOSH4Kgxf_E0UBedCuCgCK8BGAsYHg/s512/2021-03-24.jpg", Orbe 21 | AR
-https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="207" tvg-name="DISNEY JR" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Disney-Junior-Logo.png", Disney jr | AR
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/15
 #EXTINF:-1 tvg-id="1003" tvg-name="TNT SPORT" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png", TNT SPORT | AR
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/1
 #EXTINF:-1 tvg-id="1003" tvg-name="Discovery Kids" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Discovery_kids_logo.png", Discovery Kids | AR
