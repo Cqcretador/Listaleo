@@ -412,7 +412,7 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/12
 #EXTINF:-1 tvg-id="1003" tvg-name="Discovery Kids" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Discovery_kids_logo.png", Discovery Kids | AR
 http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/182129
 #EXTINF:-1 tvg-id="184" tvg-name="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%2528nuevo_logo%2529.png", telefe | AR
-https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4303
 #EXTINF:-1 tvg-id="1058" tvg-name="Spectrum Channel" tvg-logo="https://i.paste.pics/ac458f828b6eb862c9842d8a114db060.png", Spectrum Channel | CL
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
