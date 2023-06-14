@@ -225,8 +225,8 @@ https://clientes.videostreaming.ar:19360/dititv/dititv.m3u8?PlaylistM3UCL
 https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="281" tvg-name="El 10 TV Salta" tvg-logo="https://lh3.googleusercontent.com/-aNTephSh6X4/XrYOFHKzdnI/AAAAAAAA0iQ/WWl-6gNbEasulDCesXAmo66Z87DObgl5wCK8BGAsYHg/s0/2020-05-08.png", El 10 TV Salta | AR
 https://restreamer.el10tv.com/memfs/725003c4-79c2-4565-8311-f429db4f7777.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1356" tvg-name="El Histonauta TV" tvg-logo="https://i.paste.pics/1b5c2445187d85bcc724d7da7f6e1e1c.png", El Histonauta TV | AR
-https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1356" tvg-name="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png", telefe | AR
+https://ythls.onrender.com/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8
 #EXTINF:-1 tvg-id="1357" tvg-name="El Nueve" tvg-logo="https://i.paste.pics/13823cd098146dd48d400df104aa2d78.png", El Nueve | AR
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="820" tvg-name="TELEFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png", telefe | AR
