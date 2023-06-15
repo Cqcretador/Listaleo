@@ -1,8 +1,8 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="156" tvg-name="+ Listas en M3U.CL" tvg-logo="https://i2.paste.pics/84dae4a003b365e9b71ea1c50eb61c21.png", + Listas en M3U.CL * | CL
 https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1081" tvg-name="AnimeStation" tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png", AnimeStation * | AR
-https://stream.ichibantv.com:3741/live/aniplustvlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1081" tvg-name="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png", telefe * | AR
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8 
 #EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png", Latino Kids TV * | UY
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="269" tvg-name="Canal 13 San Luis" tvg-logo="https://lh3.googleusercontent.com/-k0l597JI_Nw/Xx4DpspmB4I/AAAAAAAA3gk/jb-EnvLp1GchlYJL90z6FLSXJe3ciwNRQCK8BGAsYHg/s0/2020-07-26.png", Canal 13 San Luis * | AR
