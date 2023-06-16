@@ -23,10 +23,10 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/35
 #EXTINF:-1 tvg-id="771" tvg-name="Mundo de la Musica TV" tvg-logo="https://lh3.googleusercontent.com/-dGnGcoZ4XMI/YGiuDJ-l9SI/AAAAAAABBKo/29BjyFATaBUc5W1wMu7u18r7fY1SHwLhwCK8BGAsYHg/s512/2021-04-03.png", Mundo de la Musica TV * | CL
 https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="50" tvg-name="Locomotion" tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png", Locomotion | AR
-http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1305" tvg-name="Magic Club" tvg-logo="https://i.paste.pics/d70bd8de125ec9cee654a09743c6d533.png", Magic Club | AR
-https://stream-linkyprojects.linky.com.co/hls/magicclub.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="50" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png", CINEMAX | AR
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/218
+#EXTINF:-1 tvg-id="1305" tvg-name="PARAMOUNT HD" tvg-logo="https://w7.pngwing.com/pngs/386/262/png-transparent-paramount-hd-logo.png", PARAMOUNT HD | AR
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/248
 #EXTINF:-1 tvg-id="1304" tvg-name="Magic Kids" tvg-logo="https://i.paste.pics/d70bd8de125ec9cee654a09743c6d533.png", Magic Kids | AR
 https://magicstream.ddns.net:443/magicstream/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="206" tvg-name="Paka Paka" tvg-logo="https://lh3.googleusercontent.com/-3taeZ4Ccgoo/YFtYdnexZ1I/AAAAAAABA34/XQbvaa0gNhU7nyexHLKQF6o4ybBuc3LNQCK8BGAsYHg/s512/2021-03-24.jpg", Paka Paka | AR
