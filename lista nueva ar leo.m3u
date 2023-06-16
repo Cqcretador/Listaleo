@@ -91,5 +91,10 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/15
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/1
 #EXTINF:-1 tvg-id="1003" tvg-name="TNT SPORT" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png", TNT SPORT | AR
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="1003" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png", HBO | AR
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/173
+#EXTINF:-1 tvg-id="1003" tvg-name="HBO2" tvg-logo="https://e1.pngegg.com/pngimages/815/943/png-clipart-tv-channel-icons-hbo-2-black-mirror-hbo-2-logo.png", HBO2 | AR
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/176
+
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
