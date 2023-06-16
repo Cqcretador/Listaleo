@@ -27,8 +27,8 @@ https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/218
 #EXTINF:-1 tvg-id="1305" tvg-name="PARAMOUNT HD" tvg-logo="https://w7.pngwing.com/pngs/386/262/png-transparent-paramount-hd-logo.png", PARAMOUNT HD | AR
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/248
-#EXTINF:-1 tvg-id="1304" tvg-name="Magic Kids" tvg-logo="https://i.paste.pics/d70bd8de125ec9cee654a09743c6d533.png", Magic Kids | AR
-https://magicstream.ddns.net:443/magicstream/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1304" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/TNT_HD.png", TNT | AR
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/261
 #EXTINF:-1 tvg-id="206" tvg-name="Paka Paka" tvg-logo="https://lh3.googleusercontent.com/-3taeZ4Ccgoo/YFtYdnexZ1I/AAAAAAABA34/XQbvaa0gNhU7nyexHLKQF6o4ybBuc3LNQCK8BGAsYHg/s512/2021-03-24.jpg", Paka Paka | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="251" tvg-name="13 Max Television" tvg-logo="https://lh3.googleusercontent.com/-P6gxaSGuYOY/Xjs7U_dYASI/AAAAAAAAvnc/Dj2e2bzLHdgo45TH9mqETojtcfMhKpX4wCK8BGAsYHg/s0/2020-02-05.png", 13 Max Television | AR
@@ -95,6 +95,8 @@ http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/173
 #EXTINF:-1 tvg-id="1003" tvg-name="HBO2" tvg-logo="https://e1.pngegg.com/pngimages/815/943/png-clipart-tv-channel-icons-hbo-2-black-mirror-hbo-2-logo.png", HBO2 | AR
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/176
+#EXTINF:-1 tvg-id="1003" tvg-name="HBO XTREME" tvg-logo="https://tigohn.zendesk.com/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png", HBO XTREME | AR
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/271
 
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
