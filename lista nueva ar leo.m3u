@@ -15,8 +15,8 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/12
 #EXTINF:-1 tvg-id="1003" tvg-name="Discovery Kids" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Discovery_kids_logo.png", Discovery Kids | AR
 http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/182129
-#EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png", Latino Kids TV * | UY
-https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1019" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png", TN * | AR
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-id="1010" tvg-name="UNaM Transmedia" tvg-logo="https://i2.paste.pics/8c4977628c2855095b6b9bff9a9f2a1d.png", UNaM Transmedia * | AR
 http://192.100.186.53:8090/hls/live.stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="494" tvg-name="UCL Televisión LATAM" tvg-logo="https://lh3.googleusercontent.com/-A_RaYdHsdSU/XxzKXkCODJI/AAAAAAAA3Y0/elHa2TXc-z8HpetZx_GzDK0vaepcN4xLACK8BGAsYHg/s0/2020-07-25.png", UCL Televisión LATAM * | UY
