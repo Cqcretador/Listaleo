@@ -35,8 +35,8 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?Playlis
 http://181.224.201.103:5577/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="1342" tvg-name="A24" tvg-logo="https://i.paste.pics/09d875300f8a37161b8e484e2d6f9652.png", A24 | AR
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="214" tvg-name="America Tucuman" tvg-logo="https://i2.paste.pics/10b46fbb81287d68e7a08d726c274404.png", America Tucuman | AR
-https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="214" tvg-name="Fox Sport premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png", Fox Sport Premium | AR
+https://v3.playerlatino.live/stream/m3u8/512
 #EXTINF:-1 tvg-id="253" tvg-name="Argentinisima Satelital" tvg-logo="https://lh3.googleusercontent.com/-J9YzUdbdH_A/XjtFGLCyIGI/AAAAAAAAvpg/KQIBzXLKRgADtpsPuf83H43jYfFeMNT4gCK8BGAsYHg/s0/2020-02-05.png", Argentinisima Satelital | AR
 https://stream1.sersat.com/hls/argentinisima.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1200" tvg-name="Bayres TV" tvg-logo="https://i2.paste.pics/1379fe5bb8fd807ea046564b62f40acb.png", Bayres TV | AR
