@@ -49,8 +49,8 @@ http://201.218.137.232:4123/play/a055/index.m3u8
 http://201.218.137.232:4123/play/a056/index.m3u8
 #EXTINF:-1 tvg-id="271" tvg-name="Canal 26" tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png", Canal 26 | AR
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1131" tvg-name="Canal 6 Mar del Plata" tvg-logo="https://i2.paste.pics/8a9fa1e880cf4c2289db6ddc86689ddf.png", Canal 6 Mar del Plata | AR
-https://panel.dattalive.com:443/8166/8166/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1131" tvg-name="TNT SPORT" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png", TNT SPORT | AR
+http://201.218.137.232:4123/play/a05d/index.m3u8
 #EXTINF:-1 tvg-id="272" tvg-name="FOX SPORT HD" tvg-logo="https://w7.pngwing.com/pngs/855/273/png-transparent-fox-sports-networks-sportsouth-television-fox-action-movies-logo-television-emblem-text.png", FOX SPORT | AR
 http://201.218.137.232:4123/play/a057/index.m3u8
 #EXTINF:-1 tvg-id="1336" tvg-name="FOX SPORT 2 HD" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png", FOX SPORT 2 HD| AR
