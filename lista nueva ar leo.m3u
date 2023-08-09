@@ -39,28 +39,28 @@ https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8?PlaylistM3UCL
 https://v3.playerlatino.live/stream/m3u8/512
 #EXTINF:-1 tvg-id="253" tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Espnhd.png", ESPN HD | AR
 http://201.218.137.232:4123/play/a052/index.m3u8
-#EXTINF:-1 tvg-id="1200" tvg-name="Bayres TV" tvg-logo="https://i2.paste.pics/1379fe5bb8fd807ea046564b62f40acb.png", Bayres TV | AR
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="267" tvg-name="Canal 10 Mar del Plata" tvg-logo="https://i.paste.pics/bb816e843cdebd9bdc63d0c11c81f2dc.png", Canal 10 Mar del Plata | AR
-https://g5.mc-slo.transport.edge-access.net/a15/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true&PlaylistM3UCL
-#EXTINF:-1 tvg-id="1344" tvg-name="Canal 10 San Rafael" tvg-logo="https://i.paste.pics/0adc3af9f1eb95b28a5a3499a39dabd0.png", Canal 10 San Rafael | AR
-https://streamcasthd.com:1936/tvdiez/tvdiez/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1345" tvg-name="Canal 11 de La Costa" tvg-logo="https://i.paste.pics/f071f1f2d0acd1d332eb4ec06a4f4c5e.png", Canal 11 de La Costa | AR
-https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1200" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1024px-ESPN2_logo.svg.png", ESPN 2 | AR
+http://201.218.137.232:4123/play/a053/index.m3u8
+#EXTINF:-1 tvg-id="267" tvg-name="ESPN 3  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/640px-ESPN3_Logo.png", ESPN 3 | AR
+http://201.218.137.232:4123/play/a054/index.m3u8
+#EXTINF:-1 tvg-id="1344" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/800px-ESPN_4_logo.svg.png", ESPN 4 | AR
+http://201.218.137.232:4123/play/a055/index.m3u8
+#EXTINF:-1 tvg-id="1345" tvg-name="ESPN EXTRA" tvg-logo="https://e7.pngegg.com/pngimages/798/473/png-clipart-espn-brasil-espn-extra-espn-espn-inc-grill-television-text.png", ESPN EXTRA | AR
+http://201.218.137.232:4123/play/a056/index.m3u8
 #EXTINF:-1 tvg-id="271" tvg-name="Canal 26" tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png", Canal 26 | AR
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1131" tvg-name="Canal 6 Mar del Plata" tvg-logo="https://i2.paste.pics/8a9fa1e880cf4c2289db6ddc86689ddf.png", Canal 6 Mar del Plata | AR
 https://panel.dattalive.com:443/8166/8166/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="272" tvg-name="Canal 79 Mar del Plata" tvg-logo="https://lh3.googleusercontent.com/-2lmK8NorVYk/XrYMzuTInHI/AAAAAAAA0iI/vHb7JIABcJwCiHXJP9_HBl904RV7g6hPACK8BGAsYHg/s0/2020-05-08.png", Canal 79 Mar del Plata | AR
-https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1336" tvg-name="Canal 8 Mar del Plata" tvg-logo="https://i.paste.pics/f367fbd7489929df2ba48ecab15137a6.png", Canal 8 Mar del Plata | AR
-https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1417" tvg-name="Canal E" tvg-logo="https://i2.paste.pics/ca86f0cdfc4fc1f2efc681aa0de687e9.png", Canal E | AR
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/48
-#EXTINF:-1 tvg-id="1356" tvg-name="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png", telefe | AR
-https://ythls.onrender.com/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8
-#EXTINF:-1 tvg-id="1359" tvg-name="Encuentro" tvg-logo="https://i.paste.pics/6ea1efdaba3065291386bc1637fc488a.png", Encuentro | AR
-https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="272" tvg-name="FOX SPORT HD" tvg-logo="https://w7.pngwing.com/pngs/855/273/png-transparent-fox-sports-networks-sportsouth-television-fox-action-movies-logo-television-emblem-text.png", FOX SPORT | AR
+http://201.218.137.232:4123/play/a057/index.m3u8
+#EXTINF:-1 tvg-id="1336" tvg-name="FOX SPORT 2 HD" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png", FOX SPORT 2 HD| AR
+http://201.218.137.232:4123/play/a058/index.m3u8
+#EXTINF:-1 tvg-id="1417" tvg-name="FOX SPORT 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1200px-Fox_Sports_3_Argentina_2023.svg.png", FOX SPORT 3 HD | AR
+http://201.218.137.232:4123/play/a059/index.m3u8
+#EXTINF:-1 tvg-id="1356" tvg-name="D SPORT" tvg-logo="https://seeklogo.com/images/D/D-sport-logo-26504724DD-seeklogo.com.png", D SPORT | AR
+http://201.218.137.232:4123/play/a05a/index.m3u8
+#EXTINF:-1 tvg-id="1359" tvg-name="D SPORT 2" tvg-logo="https://www.directv.cl/content/dam/public-sites/channels/612.png", D SPORT 2 | AR
+http://201.218.137.232:4123/play/a05b/index.m3u8
 #EXTINF:-1 tvg-id="1361" tvg-name="La Nacion+" tvg-logo="https://i.paste.pics/a8990e8f3817f4ed5762495c1acd96d7.png", La Nacion+ | AR
 https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="285" tvg-name="Net TV" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png", Net TV | AR
