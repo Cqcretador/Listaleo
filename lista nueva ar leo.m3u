@@ -12,7 +12,7 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="492" tvg-name="TV Publica" tvg-logo="https://lh3.googleusercontent.com/-0K_G9JiAw-I/XkCUfNx8kmI/AAAAAAAAv8Y/eK0_8koGnZYLy58qtmUqW26VOZjRqqV8gCK8BGAsYHg/s0/2020-02-09.png", TV Publica | AR
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1003" tvg-name="Discovery Kids" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Discovery_kids_logo.png", Discovery Kids | AR
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/12
+http://181.119.67.75:16123/play/ch02
 #EXTINF:-1 tvg-id="1003" tvg-name="Cartoon Network" tvg-logo="https://w7.pngwing.com/pngs/579/384/png-transparent-cartoon-network-logo-cartoon-network-logo-television-animation-cartoon-network-television-angle-text-thumbnail.png", Cartoon Network | AR
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/18
 #EXTINF:-1 tvg-id="1019" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png", TN * | AR
@@ -32,7 +32,7 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/261
 #EXTINF:-1 tvg-id="206" tvg-name="Paka Paka" tvg-logo="https://lh3.googleusercontent.com/-3taeZ4Ccgoo/YFtYdnexZ1I/AAAAAAABA34/XQbvaa0gNhU7nyexHLKQF6o4ybBuc3LNQCK8BGAsYHg/s512/2021-03-24.jpg", Paka Paka | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="251" tvg-name="Discovery Kids" tvg-logo="https://img2.freepng.es/20180609/cz/kisspng-discovery-kids-discovery-hd-discovery-channel-tele-canal-brasil-5b1ba1a21cd889.6162529515285375061182.jpg", Discovery Kids | AR
-http://181.224.201.103:5577/play/a00o/index.m3u8
+http://160.20.165.245:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="1342" tvg-name="A24" tvg-logo="https://i.paste.pics/09d875300f8a37161b8e484e2d6f9652.png", A24 | AR
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="214" tvg-name="Fox Sport premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png", Fox Sport Premium | AR
