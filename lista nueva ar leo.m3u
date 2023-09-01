@@ -56,7 +56,7 @@ http://201.218.137.232:4123/play/a057/index.m3u8
 #EXTINF:-1 tvg-id="1336" tvg-name="FOX SPORT 2 HD" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png", FOX SPORT 2 HD| AR
 http://201.218.137.232:4123/play/a058/index.m3u8
 #EXTINF:-1 tvg-id="1417" tvg-name="FOX SPORT 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1200px-Fox_Sports_3_Argentina_2023.svg.png", FOX SPORT 3 HD | AR
-http://201.218.137.232:4123/play/a059/index.m3u8
+http://magmas5.com:8000/sunlink/dFIdo0UaMM/3041
 #EXTINF:-1 tvg-id="1356" tvg-name="D SPORT" tvg-logo="https://seeklogo.com/images/D/D-sport-logo-26504724DD-seeklogo.com.png", D SPORT | AR
 http://201.218.137.232:4123/play/a05a/index.m3u8
 #EXTINF:-1 tvg-id="1359" tvg-name="D SPORT 2" tvg-logo="https://www.directv.cl/content/dam/public-sites/channels/612.png", D SPORT 2 | AR
