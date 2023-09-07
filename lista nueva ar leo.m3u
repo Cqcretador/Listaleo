@@ -12,7 +12,7 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="492" tvg-name="TV Publica" tvg-logo="https://lh3.googleusercontent.com/-0K_G9JiAw-I/XkCUfNx8kmI/AAAAAAAAv8Y/eK0_8koGnZYLy58qtmUqW26VOZjRqqV8gCK8BGAsYHg/s0/2020-02-09.png", TV Publica | AR
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1003" tvg-name="Discovery Kids" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Discovery_kids_logo.png", Discovery Kids | AR
-http://181.119.67.75:16123/play/ch02
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/210.ts
 #EXTINF:-1 tvg-id="1003" tvg-name="Cartoon Network" tvg-logo="https://w7.pngwing.com/pngs/579/384/png-transparent-cartoon-network-logo-cartoon-network-logo-television-animation-cartoon-network-television-angle-text-thumbnail.png", Cartoon Network | AR
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/18
 #EXTINF:-1 tvg-id="1019" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png", TN * | AR
@@ -84,7 +84,7 @@ https://v3.playerlatino.live/stream/m3u8/738
 #EXTINF:-1 tvg-id="208" tvg-name="CINE.AR" tvg-logo="https://lh3.googleusercontent.com/-Y_ezb_qUTw4/YFs6qLiovmI/AAAAAAABA3E/qQKwFSEuiUYZUscGD9oqKCe6XqB_u48qQCK8BGAsYHg/s512/2021-03-24.png", CINE.AR | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1078" tvg-name="TyC Sports" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102018/untitled-1_0.png?F6I3fSfXjacEnK1eqDG27n_ZDOB47hGe&itok=O6OvPoFN", TyC Sports | AR
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/196
+http://45.179.140.242:8000/play/a0k7
 #EXTINF:-1 tvg-id="207" tvg-name="DISNEY JR" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Disney-Junior-Logo.png", Disney jr | AR
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/15
 #EXTINF:-1 tvg-id="1003" tvg-name="TNT SPORT" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png", TNT SPORT | AR
