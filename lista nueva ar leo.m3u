@@ -42,7 +42,7 @@ https://v3.playerlatino.live/stream/m3u8/512
 #EXTINF:-1 tvg-id="253" tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Espnhd.png", ESPN HD | AR
 http://201.218.137.232:4123/play/a052/index.m3u8
 #EXTINF:-1 tvg-id="1200" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1024px-ESPN2_logo.svg.png", ESPN 2 | AR
-http://201.218.137.232:4123/play/a053/index.m3u8
+http://38.43.140.97:8000/play/a049/index.m3u8
 #EXTINF:-1 tvg-id="267" tvg-name="ESPN 3  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/640px-ESPN3_Logo.png", ESPN 3 | AR
 http://201.218.137.232:4123/play/a054/index.m3u8
 #EXTINF:-1 tvg-id="1344" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/800px-ESPN_4_logo.svg.png", ESPN 4 | AR
