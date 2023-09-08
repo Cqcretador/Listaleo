@@ -13,6 +13,8 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8?PlaylistM3UCL
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1003" tvg-name="Discovery Kids" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Discovery_kids_logo.png", Discovery Kids | AR
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/210.ts
+#EXTINF:-1 tvg-id="1003" tvg-name="Discovery Kids" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Discovery_kids_logo.png", Discovery Kids | AR
+http://38.43.140.97:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="1003" tvg-name="Cartoon Network" tvg-logo="https://w7.pngwing.com/pngs/579/384/png-transparent-cartoon-network-logo-cartoon-network-logo-television-animation-cartoon-network-television-angle-text-thumbnail.png", Cartoon Network | AR
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/18
 #EXTINF:-1 tvg-id="1019" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png", TN * | AR
@@ -69,8 +71,8 @@ https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
 https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1371" tvg-name="TV Universidad" tvg-logo="https://i.paste.pics/30550e433a7082650ea4dd641b156583.png", TV Universidad | AR
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1372" tvg-name="Urbana TeVe" tvg-logo="https://i.paste.pics/bc45740f1e3774c663644d7488cfee08.png", Urbana TeVe | AR
-https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1372" tvg-name="CNN TV" tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/cnn-logo-1-1.png", CNN | AR
+http://51.222.249.193:8080/you22/Wp82cV3DsWW9/322836
 #EXTINF:-1 tvg-id="1373" tvg-name="Vorterix" tvg-logo="https://i.paste.pics/b9b18fd6b72ccc8437a43289438b1594.png", Vorterix | AR
 https://ythls.onrender.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1100" tvg-name="DEPORTV" tvg-logo="https://i2.paste.pics/7b99edf751cc110abb5fd3f040e558b8.png", DEPORTV | AR
