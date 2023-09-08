@@ -30,7 +30,7 @@ http://190.83.60.34:1414/play/a02f
 #EXTINF:-1 tvg-id="1305" tvg-name="PARAMOUNT HD" tvg-logo="https://w7.pngwing.com/pngs/386/262/png-transparent-paramount-hd-logo.png", PARAMOUNT HD | AR
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/248
 #EXTINF:-1 tvg-id="1304" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/TNT_HD.png", TNT | AR
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/261
+http://gafitvapp.win:8080/FAMILIA/ABCD1234/387686
 #EXTINF:-1 tvg-id="206" tvg-name="Paka Paka" tvg-logo="https://lh3.googleusercontent.com/-3taeZ4Ccgoo/YFtYdnexZ1I/AAAAAAABA34/XQbvaa0gNhU7nyexHLKQF6o4ybBuc3LNQCK8BGAsYHg/s512/2021-03-24.jpg", Paka Paka | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="251" tvg-name="Discovery Kids" tvg-logo="https://img2.freepng.es/20180609/cz/kisspng-discovery-kids-discovery-hd-discovery-channel-tele-canal-brasil-5b1ba1a21cd889.6162529515285375061182.jpg", Discovery Kids | AR
@@ -82,7 +82,7 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="493" tvg-name="Net TV" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png", Net TV | AR
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="24" tvg-name="CINECANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png", Cinecanal | AR
-https://v3.playerlatino.live/stream/m3u8/738
+http://38.43.140.97:8000/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="208" tvg-name="CINE.AR" tvg-logo="https://lh3.googleusercontent.com/-Y_ezb_qUTw4/YFs6qLiovmI/AAAAAAABA3E/qQKwFSEuiUYZUscGD9oqKCe6XqB_u48qQCK8BGAsYHg/s512/2021-03-24.png", CINE.AR | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1078" tvg-name="TyC Sports" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102018/untitled-1_0.png?F6I3fSfXjacEnK1eqDG27n_ZDOB47hGe&itok=O6OvPoFN", TyC Sports | AR
