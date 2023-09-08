@@ -22,11 +22,11 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-id="1010" tvg-name="America TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png", America TV * | AR
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 #EXTINF:-1 tvg-id="494" tvg-name="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png", SPACE * | UY
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/258
+http://38.43.140.97:8000/play/a03p/index.m3u8
 #EXTINF:-1 tvg-id="771" tvg-name="Mundo de la Musica TV" tvg-logo="https://lh3.googleusercontent.com/-dGnGcoZ4XMI/YGiuDJ-l9SI/AAAAAAABBKo/29BjyFATaBUc5W1wMu7u18r7fY1SHwLhwCK8BGAsYHg/s512/2021-04-03.png", Mundo de la Musica TV * | CL
 https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="50" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png", CINEMAX | AR
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/218
+http://190.83.60.34:1414/play/a02f
 #EXTINF:-1 tvg-id="1305" tvg-name="PARAMOUNT HD" tvg-logo="https://w7.pngwing.com/pngs/386/262/png-transparent-paramount-hd-logo.png", PARAMOUNT HD | AR
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/248
 #EXTINF:-1 tvg-id="1304" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/TNT_HD.png", TNT | AR
@@ -88,17 +88,17 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM
 #EXTINF:-1 tvg-id="1078" tvg-name="TyC Sports" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102018/untitled-1_0.png?F6I3fSfXjacEnK1eqDG27n_ZDOB47hGe&itok=O6OvPoFN", TyC Sports | AR
 http://45.179.140.242:8000/play/a0k7
 #EXTINF:-1 tvg-id="207" tvg-name="DISNEY JR" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Disney-Junior-Logo.png", Disney jr | AR
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/15
+http://38.43.140.97:8000/play/a047/index.m3u8
 #EXTINF:-1 tvg-id="1003" tvg-name="TNT SPORT" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png", TNT SPORT | AR
 http://pfsv.io:80/7125938483/5158/108402.ts
 #EXTINF:-1 tvg-id="1003" tvg-name="TNT SPORT" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png", TNT SPORT | AR
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="1003" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png", HBO | AR
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/173
+http://38.43.140.97:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="1003" tvg-name="HBO2" tvg-logo="https://e1.pngegg.com/pngimages/815/943/png-clipart-tv-channel-icons-hbo-2-black-mirror-hbo-2-logo.png", HBO2 | AR
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/176
+http://38.43.140.97:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="1003" tvg-name="HBO XTREME" tvg-logo="https://tigohn.zendesk.com/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png", HBO XTREME | AR
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/271
+http://38.43.140.97:8000/play/a00k/index.m3u8
 
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
