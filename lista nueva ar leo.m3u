@@ -13,16 +13,26 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 #EXTINF:-1 tvg-id="494" tvg-name="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png", SPACE * | UY
 http://38.43.140.97:8000/play/a03p/index.m3u8
+#EXTINF:-1 tvg-id="494" tvg-name="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png", SPACE * | UY
+http://170.82.37.21:8000/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="1304" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/TNT_HD.png", TNT | AR
 http://gafitvapp.win:8080/FAMILIA/ABCD1234/387686
+#EXTINF:-1 tvg-id="1304" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/TNT_HD.png", TNT | AR
+http://170.82.37.21:8000/play/a03a/index.m3u8
+#EXTINF:-1 tvg-id="1304" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png", TNT SERIES | AR
+http://170.82.37.21:8000/play/a03c/index.m3u8
+#EXTINF:-1 tvg-id="1304" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1280px-Logo_Studio_Universal.svg.png", STUDIO UNIVERSAL | AR
+http://170.82.37.21:8000/play/a033/index.m3u8
 #EXTINF:-1 tvg-id="50" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png", CINEMAX | AR
 http://190.83.60.34:1414/play/a02f
+#EXTINF:-1 tvg-id="50" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png", CINEMAX | AR
+http://170.82.37.21:8000/play/a023/index.m3u8
 #EXTINF:-1 tvg-id="1003" tvg-name="Cartoon Network" tvg-logo="https://w7.pngwing.com/pngs/579/384/png-transparent-cartoon-network-logo-cartoon-network-logo-television-animation-cartoon-network-television-angle-text-thumbnail.png", Cartoon Network | AR
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/18
 #EXTINF:-1 tvg-id="206" tvg-name="Paka Paka" tvg-logo="https://lh3.googleusercontent.com/-3taeZ4Ccgoo/YFtYdnexZ1I/AAAAAAABA34/XQbvaa0gNhU7nyexHLKQF6o4ybBuc3LNQCK8BGAsYHg/s512/2021-03-24.jpg", Paka Paka | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1003" tvg-name="Discovery Kids" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Discovery_kids_logo.png", Discovery Kids | AR
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/210.ts
+http://170.82.37.21:8000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="1003" tvg-name="Discovery Kids" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Discovery_kids_logo.png", Discovery Kids | AR
 http://38.43.140.97:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="251" tvg-name="Discovery Kids" tvg-logo="https://img2.freepng.es/20180609/cz/kisspng-discovery-kids-discovery-hd-discovery-channel-tele-canal-brasil-5b1ba1a21cd889.6162529515285375061182.jpg", Discovery Kids | AR
@@ -33,8 +43,6 @@ http://190.60.36.103:8000/play/a00g/index.m3u8
 http://38.43.140.97:8000/play/a047/index.m3u8
 #EXTINF:-1 tvg-id="1342" tvg-name="A24" tvg-logo="https://i.paste.pics/09d875300f8a37161b8e484e2d6f9652.png", A24 | AR
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="214" tvg-name="Fox Sport premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png", Fox Sport Premium | AR
-https://v3.playerlatino.live/stream/m3u8/512
 #EXTINF:-1 tvg-id="253" tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Espnhd.png", ESPN HD | AR
 http://201.218.137.232:4123/play/a052/index.m3u8
 #EXTINF:-1 tvg-id="1200" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1024px-ESPN2_logo.svg.png", ESPN 2 | AR
@@ -69,6 +77,8 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8?Playlist
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="24" tvg-name="CINECANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png", Cinecanal | AR
 http://38.43.140.97:8000/play/a014/index.m3u8
+#EXTINF:-1 tvg-id="24" tvg-name="CINECANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png", Cinecanal | AR
+http://170.82.37.21:8000/play/a022/index.m3u8
 #EXTINF:-1 tvg-id="208" tvg-name="CINE.AR" tvg-logo="https://lh3.googleusercontent.com/-Y_ezb_qUTw4/YFs6qLiovmI/AAAAAAABA3E/qQKwFSEuiUYZUscGD9oqKCe6XqB_u48qQCK8BGAsYHg/s512/2021-03-24.png", CINE.AR | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1078" tvg-name="TyC Sports" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102018/untitled-1_0.png?F6I3fSfXjacEnK1eqDG27n_ZDOB47hGe&itok=O6OvPoFN", TyC Sports | AR
