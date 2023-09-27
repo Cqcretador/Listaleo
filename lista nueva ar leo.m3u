@@ -97,10 +97,13 @@ http://38.43.140.97:8000/play/a00k/index.m3u8
 http://38.43.140.97:8000/play/a01b/index.m3u8
 #EXTINF:-1 tvg-id="1003" tvg-name="Warner" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1058px-Warner_Channel.svg.png", Warner Channel | AR
 http://38.43.140.97:8000/play/a03n/index.m3u8
+#EXTINF:-1 tvg-id="1003" tvg-name="+ cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/CINE%2B_-_LOGO.png", +cine | AR
+https://tv.streaming-chile.com:1936/8142/8142/chunklist_w527786512.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1003" tvg-name="History Channel" tvg-logo="https://w7.pngwing.com/pngs/87/171/png-transparent-history-television-channel-logo-television-show-history-television-angle-rectangle-thumbnail.png", History Channel | AR
 http://38.43.140.97:8000/play/a03k/index.m3u8
 #EXTINF:-1 tvg-id="1003" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png", History Channel | AR
 http://38.43.140.97:8000/play/a00i/index.m3u8
+
 
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
