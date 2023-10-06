@@ -39,6 +39,8 @@ http://38.43.140.97:8000/play/a01j/index.m3u8
 http://45.181.122.145:8000/play/a02c/index.m3u8
 #EXTINF:-1 tvg-id="251" tvg-name="Discovery Kids" tvg-logo="https://img2.freepng.es/20180609/cz/kisspng-discovery-kids-discovery-hd-discovery-channel-tele-canal-brasil-5b1ba1a21cd889.6162529515285375061182.jpg", Discovery Kids | AR
 http://190.60.36.103:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="251" tvg-name="Discovery Kids" tvg-logo="https://img2.freepng.es/20180609/cz/kisspng-discovery-kids-discovery-hd-discovery-channel-tele-canal-brasil-5b1ba1a21cd889.6162529515285375061182.jpg", Discovery Kids | AR
+http://190.61.46.126:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="207" tvg-name="DISNEY JR" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Disney-Junior-Logo.png", Disney jr | AR
 http://38.43.140.97:8000/play/a047/index.m3u8
 #EXTINF:-1 tvg-id="1342" tvg-name="A24" tvg-logo="https://i.paste.pics/09d875300f8a37161b8e484e2d6f9652.png", A24 | AR
