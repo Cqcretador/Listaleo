@@ -1,6 +1,8 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="1081" tvg-name="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png", telefe * | AR
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8 
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+#EXTINF:-1 tvg-id="1358" tvg-name="El Nueve" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv3s_6HVNHusNLm3xMQO6-K_Iw4CtIvCyrhz6fdkGi&s", El Nueve | AR
+http://sdmx.vip:8080/Mark2023/Mark2023/210850
 #EXTINF:-1 tvg-id="1358" tvg-name="El Trece" tvg-logo="https://i.paste.pics/d02b6b3b0cc50273b2bab778279779a3.png", El Trece | AR
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1359" tvg-name="Encuentro" tvg-logo="https://i.paste.pics/6ea1efdaba3065291386bc1637fc488a.png", Encuentro | AR
@@ -86,6 +88,8 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM
 #EXTINF:-1 tvg-id="1078" tvg-name="TyC Sports" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102018/untitled-1_0.png?F6I3fSfXjacEnK1eqDG27n_ZDOB47hGe&itok=O6OvPoFN", TyC Sports | AR
 http://45.179.140.242:8000/play/a0k7
 #EXTINF:-1 tvg-id="1003" tvg-name="TNT SPORT" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png", TNT SPORT | AR
+http://50.7.66.234:8080/UY2028/816373917/1155814
+#EXTINF:-1 tvg-id="1003" tvg-name="TNT SPORT" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png", TNT SPORT | AR
 http://pfsv.io:80/7125938483/5158/108402.ts
 #EXTINF:-1 tvg-id="1003" tvg-name="TNT SPORT" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png", TNT SPORT | AR
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
@@ -105,6 +109,8 @@ https://tv.streaming-chile.com:1936/8142/8142/chunklist_w527786512.m3u8?Playlist
 http://38.43.140.97:8000/play/a03k/index.m3u8
 #EXTINF:-1 tvg-id="1003" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png", History Channel | AR
 http://38.43.140.97:8000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="1003" tvg-name="Teatrix" tvg-logo="https://pbs.twimg.com/profile_images/1697655140616982529/CZjS0-zk_400x400.jpg", Teatrix | AR
+https://content.uplynk.com/channel/585ab4fbd865426abd6fbd48fc631b6e.m3u8?PlaylistM3UCL
 
 
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
