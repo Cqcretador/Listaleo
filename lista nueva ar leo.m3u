@@ -17,8 +17,10 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 http://38.43.140.97:8000/play/a03p/index.m3u8
 #EXTINF:-1 tvg-id="494" tvg-name="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png", SPACE * | UY
 http://170.82.37.21:8000/play/a030/index.m3u8
+#EXTINF:-1 tvg-id="494" tvg-name="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png", SPACE * | UY
+http://magi-stv.net:8080/LEO2023/Leo2023/10871
 #EXTINF:-1 tvg-id="1304" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/TNT_HD.png", TNT | AR
-http://gafitvapp.win:8080/FAMILIA/ABCD1234/387686
+http://magi-stv.net:8080/LEO2023/Leo2023/155176
 #EXTINF:-1 tvg-id="1304" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/TNT_HD.png", TNT | AR
 http://170.82.37.21:8000/play/a03a/index.m3u8
 #EXTINF:-1 tvg-id="1304" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png", TNT SERIES | AR
@@ -85,6 +87,8 @@ https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
 http://38.43.140.97:8000/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="24" tvg-name="CINECANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png", Cinecanal | AR
 http://170.82.37.21:8000/play/a022/index.m3u8
+#EXTINF:-1 tvg-id="24" tvg-name="CINECANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png", Cinecanal | AR
+http://ultrapremium.cloud:8080/user1161/XyZa5485/112
 #EXTINF:-1 tvg-id="208" tvg-name="CINE.AR" tvg-logo="https://lh3.googleusercontent.com/-Y_ezb_qUTw4/YFs6qLiovmI/AAAAAAABA3E/qQKwFSEuiUYZUscGD9oqKCe6XqB_u48qQCK8BGAsYHg/s512/2021-03-24.png", CINE.AR | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1078" tvg-name="TyC Sports" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102018/untitled-1_0.png?F6I3fSfXjacEnK1eqDG27n_ZDOB47hGe&itok=O6OvPoFN", TyC Sports | AR
