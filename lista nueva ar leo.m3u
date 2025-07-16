@@ -15,4 +15,9 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8?PlaylistM3UCL
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1003" tvg-name="CNC DIGITAL" tvg-logo="https://play-lh.googleusercontent.com/KPy9GJ0_7TJaq9UxZTTz8zdvzI5NdO71zLO8ZkTifDcLbHGkx4b1OgueDz5z4zGUAr0", CNC DIGITAL | AR
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
+#EXTINF:-1 tvg-id="1003" tvg-name="NICK JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png", NICK JR | AR
+http://stklatino.dynns.com:2082/get.php?username=marcosadrian&password=92738291&type=m3u_plus
+#EXTINF:-1 tvg-id="1003" tvg-name="NICK JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png", NICK JR | AR
+http://streamprostk.com:2082/amigojohnrapiman/sapea963/2478
+
 
